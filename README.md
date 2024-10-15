@@ -1,4 +1,6 @@
-# Reprogramming of epidermal keratinocytes by PITX1 transforms the cutaneous cellular landscape and promotes wound healing Overmiller et al. 2024, JCI Insight
+# Reprogramming of epidermal keratinocytes by PITX1 transforms the cutaneous cellular landscape and promotes wound healing 
+
+### Overmiller et al. 2024, JCI Insight
 
 # Introduction
 
