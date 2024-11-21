@@ -11,7 +11,7 @@ Overmiller et al., 2024 (doi: XXX).
 ## Data
 
 Single cell RNA-seq and Xenium _in situ_ data used in this R code available here -- 
-GSE279042 (url: XXX)
+GSE280088 ((https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE280088))
 
 
 
